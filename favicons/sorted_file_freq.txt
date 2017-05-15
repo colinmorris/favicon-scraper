@@ -1,0 +1,186 @@
+   1715 MS Windows icon resource - 1 icon
+   1195 empty 
+    152 MS Windows icon resource - 2 icons, 16x16, 256-colors
+     89 PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
+     84 MS Windows icon resource - 3 icons, 16x16, 256-colors
+     83 MS Windows icon resource - 2 icons, 32x32, 256-colors
+     77 GIF image data, version 89a, 1 x 1
+     49 MS Windows icon resource - 4 icons, 16x16, 256-colors
+     48 HTML document, UTF-8 Unicode text, with very long lines, with CRLF, LF line terminators
+     45 HTML document, UTF-8 Unicode text, with very long lines
+     36 PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
+     36 PC bitmap, Windows 3.x format, 16 x 16 x 24
+     27 MS Windows icon resource - 5 icons, 16x16, 256-colors
+     24 MS Windows icon resource - 4 icons, 64x64, 256-colors
+     24 MS Windows icon resource - 4 icons, 48x48, 256-colors
+     23 HTML document, ASCII text
+     23 GIF image data, version 89a, 16 x 16
+     22 HTML document, UTF-8 Unicode text, with very long lines, with CRLF line terminators
+     21 HTML document, ASCII text, with very long lines
+     20 PNG image data, 16 x 16, 8-bit/color RGB, non-interlaced
+     20 MS Windows icon resource - 3 icons, 48x48, 256-colors
+     18 MS Windows icon resource - 3 icons, 16x16, 16-colors
+     14 JPEG image data, EXIF standard
+     13 MS Windows icon resource - 10 icons, 256-colors
+     12 PNG image data, 64 x 64, 8-bit/color RGBA, non-interlaced
+     12 PNG image data, 32 x 32, 8-bit/color RGB, non-interlaced
+      9 UTF-8 Unicode text, with no line terminators
+      9 PNG image data, 32 x 32, 16-bit/color RGBA, non-interlaced
+      9 HTML document, UTF-8 Unicode text, with very long lines, with CRLF, CR, LF line terminators
+      9 HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+      9 HTML document, ASCII text, with CRLF line terminators
+      8 PNG image data, 16 x 16, 8-bit colormap, non-interlaced
+      8 MS Windows icon resource - 2 icons, 48x48, 256-colors
+      8 HTML document, UTF-8 Unicode text
+      8 HTML document, ISO-8859 text, with very long lines, with CRLF, LF line terminators
+      7 PNG image data, 16 x 16, 16-bit/color RGBA, non-interlaced
+      7 MS Windows icon resource - 6 icons, 16x16, 256-colors
+      7 MS Windows icon resource - 5 icons, 256-colors
+      7 JPEG image data, JFIF standard 1.01
+      7 HTML document, ASCII text, with very long lines, with CRLF line terminators
+      6 PNG image data, 32 x 32, 8-bit colormap, non-interlaced
+      6 MS Windows icon resource - 7 icons, 16x16, 256-colors
+      6 JPEG image data, JFIF standard 1.02
+      6 HTML document, UTF-8 Unicode text, with CRLF line terminators
+      6 GIF image data, version 89a, 32 x 32
+      5 PNG image data, 64 x 64, 16-bit/color RGBA, non-interlaced
+      5 MS Windows icon resource - 3 icons, 32x32, 256-colors
+      5 JPEG image data, JFIF standard 1.01, comment: "CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 100"
+      5 HTML document, UTF-8 Unicode (with BOM) text, with very long lines
+      4 PNG image data, 32 x 32, 16-bit/color RGB, non-interlaced
+      4 MS Windows icon resource - 6 icons, 48x48, 256-colors
+      4 MS Windows icon resource - 6 icons, 16x16, 16-colors
+      4 MS Windows icon resource - 4 icons, 32x32, 256-colors
+      4 MS Windows icon resource - 3 icons, 64x64, 256-colors
+      4 MS Windows icon resource - 12 icons, 16x16, 16-colors
+      4 HTML document, UTF-8 Unicode (with BOM) text, with very long lines, with CRLF, LF line terminators
+      4 HTML document, ASCII text, with very long lines, with no line terminators
+      4 data
+      4 ASCII text, with no line terminators
+      4 ASCII text
+      3 PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced
+      3 PC bitmap, Windows 3.x format, 32 x 32 x 24
+      3 PC bitmap, Windows 3.x format, 16 x 16 x 8
+      3 MS Windows icon resource - 2 icons, 32x32, 16-colors
+      3 MS Windows icon resource - 12 icons, 48x48, 16-colors
+      3 HTML document, UTF-8 Unicode (with BOM) text, with very long lines, with CRLF line terminators
+      3 HTML document, ISO-8859 text, with very long lines
+      3 HTML document, ASCII text, with CRLF, LF line terminators
+      2 PNG image data, 57 x 57, 8-bit/color RGBA, non-interlaced
+      2 PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
+      2 PNG image data, 40 x 40, 8-bit/color RGBA, non-interlaced
+      2 PNG image data, 30 x 30, 8-bit/color RGBA, non-interlaced
+      2 PNG image data, 20 x 20, 8-bit/color RGBA, non-interlaced
+      2 PNG image data, 128 x 128, 8-bit/color RGBA, non-interlaced
+      2 PNG image data, 100 x 100, 8-bit/color RGBA, non-interlaced
+      2 PC bitmap, Windows 3.x format, 32 x 32 x 8
+      2 MS Windows icon resource - 9 icons, 256-colors
+      2 MS Windows icon resource - 6 icons, 256-colors
+      2 MS Windows icon resource - 5 icons, 16x16, 16-colors
+      2 MS Windows icon resource - 2 icons, 16x16, 2-colors
+      2 JPEG image data, JFIF standard 1.01, comment: "CREATOR: gd-jpeg v1.0 (using IJG JPEG v80), quality = 90"
+      2 HTML document, UTF-8 Unicode text, with very long lines, with no line terminators
+      2 HTML document, UTF-8 Unicode text, with CRLF, LF line terminators
+      2 HTML document, Non-ISO extended-ASCII text, with very long lines, with CRLF line terminators
+      2 HTML document, Non-ISO extended-ASCII text, with very long lines, with CRLF, LF line terminators
+      2 HTML document, Non-ISO extended-ASCII text, with very long lines
+      2 HTML document, ISO-8859 text, with very long lines, with CRLF line terminators
+      2 HTML document, ISO-8859 text, with CRLF line terminators
+      2 HTML document, ASCII text, with very long lines, with CRLF, CR, LF line terminators
+      2 GIF image data, version 89a, 48 x 48
+      1 very short file (no magic)
+      1 PNG image data, 99 x 99, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 64 x 79, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 64 x 64, 8-bit/color RGB, non-interlaced
+      1 PNG image data, 60 x 60, 8-bit/color RGBA, interlaced
+      1 PNG image data, 60 x 40, 8-bit/color RGB, non-interlaced
+      1 PNG image data, 53 x 50, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 50 x 50, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 500 x 500, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 44 x 30, 8-bit colormap, non-interlaced
+      1 PNG image data, 36 x 36, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 33 x 33, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 32 x 34, 8-bit/color RGBA, interlaced
+      1 PNG image data, 32 x 32, 8-bit/color RGB, interlaced
+      1 PNG image data, 31 x 32, 16-bit/color RGBA, non-interlaced
+      1 PNG image data, 30 x 32, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 274 x 217, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 24 x 15, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 20 x 20, 8-bit/color RGB, non-interlaced
+      1 PNG image data, 19 x 18, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 192 x 192, 8-bit/color RGB, non-interlaced
+      1 PNG image data, 18 x 20, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 18 x 15, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 16 x 17, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 16 x 16, 8-bit/color RGBA, interlaced
+      1 PNG image data, 16 x 16, 4-bit colormap, non-interlaced
+      1 PNG image data, 16 x 16, 1-bit colormap, non-interlaced
+      1 PNG image data, 16 x 13, 8-bit/color RGB, non-interlaced
+      1 PNG image data, 15 x 16, 8-bit/color RGB, non-interlaced
+      1 PNG image data, 150 x 150, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 14 x 14, 8-bit/color RGB, non-interlaced
+      1 PNG image data, 140 x 135, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 128 x 128, 8-bit/color RGBA, interlaced
+      1 PNG image data, 126 x 126, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 124 x 124, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 1224 x 1632, 8-bit/color RGB, non-interlaced
+      1 PNG image data, 114 x 114, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 100 x 87, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 100 x 106, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 100 x 102, 8-bit/color RGBA, non-interlaced
+      1 PNG image data, 100 x 100, 8-bit colormap, non-interlaced
+      1 PHP script, ASCII text, with CRLF line terminators
+      1 PC bitmap, Windows 3.x format, 48 x 48 x 24
+      1 PC bitmap, Windows 3.x format, 35 x 36 x 24
+      1 PC bitmap, Windows 3.x format, 32 x 32 x 32
+      1 PC bitmap, Windows 3.x format, 32 x 32 x 16
+      1 PC bitmap, Windows 3.x format, 1 x 1 x 4
+      1 PC bitmap, Windows 3.x format, 17 x 17 x 24
+      1 PC bitmap, Windows 3.x format, 16 x 16 x 16
+      1 MS Windows icon resource - 9 icons, 48x48, 16-colors
+      1 MS Windows icon resource - 9 icons, 16x16, 16-colors
+      1 MS Windows icon resource - 8 icons, 32x32, 16-colors
+      1 MS Windows icon resource - 8 icons, 16x16, 256-colors
+      1 MS Windows icon resource - 7 icons, 16x16, 16-colors
+      1 MS Windows icon resource - 6 icons, 32x32, 16-colors
+      1 MS Windows icon resource - 5 icons, 72x72, 256-colors
+      1 MS Windows icon resource - 5 icons, 64x64, 256-colors
+      1 MS Windows icon resource - 4 icons, 32x32, 16-colors
+      1 MS Windows icon resource - 4 icons, 16x16, 16-colors
+      1 MS Windows icon resource - 4 icons, 16-colors
+      1 MS Windows icon resource - 3 icons, 32x32, 16-colors
+      1 MS Windows icon resource - 3 icons, 24x24, 256-colors
+      1 MS Windows icon resource - 3 icons, 24x24, 16-colors
+      1 MS Windows icon resource - 3 icons, 17x16, 256-colors
+      1 MS Windows icon resource - 2 icons, 64x64, 256-colors
+      1 MS Windows icon resource - 2 icons, 24x32, 256-colors
+      1 MS Windows icon resource - 2 icons, 1x3, 2-colors
+      1 MS Windows icon resource - 2 icons, 16x16, 16-colors
+      1 MS Windows icon resource - 17 icons, 256-colors
+      1 MS Windows icon resource - 15 icons, 16x16, 16-colors
+      1 MS Windows icon resource - 13 icons, 48x48, 16-colors
+      1 MS Windows icon resource - 12 icons, 256-colors
+      1 MS Windows icon resource - 12 icons, 16-colors
+      1 MS Windows icon resource - 10 icons, 64x64, 256-colors
+      1 JPEG image data, JFIF standard 1.01, comment: "CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 90"
+      1 JPEG image data, EXIF standard, baseline, precision 0, 4360x16
+      1 HTML document, UTF-8 Unicode (with BOM) text, with very long lines, with CRLF, CR line terminators
+      1 HTML document, UTF-8 Unicode (with BOM) text, with CRLF line terminators
+      1 HTML document, UTF-8 Unicode (with BOM) text
+      1 HTML document, UTF-8 Unicode text, with very long lines, with NEL line terminators
+      1 HTML document, UTF-8 Unicode text, with very long lines, with escape sequences
+      1 HTML document, UTF-8 Unicode text, with very long lines, with CRLF, CR line terminators
+      1 HTML document, Non-ISO extended-ASCII text
+      1 HTML document, ISO-8859 text
+      1 HTML document, ASCII text, with very long lines, with CRLF, CR line terminators
+      1 HTML document, ASCII text, with no line terminators
+      1 gzip compressed data, was "favicon.ico", from Unix, last modified: Sun Jul 29 20:00:00 2012
+      1 GIF image data, version 89a, 30 x 30
+      1 GIF image data, version 89a, 229 x 82
+      1 GIF image data, version 89a, 18 x 18
+      1 GIF image data, version 89a, 100 x 100
+      1 assembler source text
+      1 ASCII text, with CRLF line terminators
+      1 AppleDouble encoded Macintosh file
+      1 AIX core file 32-bit 64-bit

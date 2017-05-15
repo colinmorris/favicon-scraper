@@ -1,0 +1,38 @@
+- Original number of favicon files: 542,986
+- After filtering out empty: 401,159 (-141,927)
+
+Types:
+- MS Windows icon resource - n icons
+- empty
+- PNG
+- GIF
+- HTML
+- PC bitmap
+- JPEG
+- gzip compressed data
+- assembler source text
+- AppleDouble encoded Macintosh file
+- ...
+
+Failure modes:
+- empty
+- HTML
+- ASCII
+- UTF-8 Unicode text
+- 'very short file'?
+- PHP script
+
+'Success' modes:
+- MS Windows icon resource
+- PNG
+- GIF
+- PC bitmap
+- JPEG
+
+Sketch:
+- append file output to file (for later analysis)
+- if ^HTML document
+    mv html
+- if ^ASCII
+    mv ascii
+
