@@ -21,7 +21,7 @@ NEWSPIDER_MODULE = 'favicons.spiders'
 #USER_AGENT = 'favicons (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False # lol
+#ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
